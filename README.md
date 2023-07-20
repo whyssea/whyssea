@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Liza, junior frontend-developer!
+Also I'm interested in fullstack development. My stack is:
+* React
+* Redux
+* TypeScript / JavaScript
+* PostgreSQL
+* MongoDB
+* Express
+* Docker
+* Node.js
+* Nest.js
+* CSS/SCSS
 
 <!--
 **seyelich/seyelich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
