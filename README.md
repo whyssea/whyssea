@@ -12,6 +12,11 @@ Also I'm interested in fullstack development. My stack is:
 * Nest.js
 * CSS/SCSS
 
+**Connect with me:**
+
+<img src="https://github.com/seyelich/seyelich/assets/98465083/c190d98d-c67e-466a-8bc4-cfc9f340898e" width="50">
+<img src="https://github.com/seyelich/seyelich/assets/98465083/f4fbfdef-2b07-452d-853e-35777f8ff857" width="50">
+
 <!--
 **seyelich/seyelich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
