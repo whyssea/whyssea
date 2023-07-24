@@ -1,6 +1,6 @@
-# Hi there 👋
-## I'm Liza, junior frontend-developer!
-Also I'm interested in fullstack development. My stack is:
+# Привет всем 👋
+## Я Лиза, начинающий фронтенд-разработчик!
+Также я интересуюсь фуллстак разработкой. Мой стак:
 * React
 * Redux
 * TypeScript / JavaScript
@@ -12,7 +12,7 @@ Also I'm interested in fullstack development. My stack is:
 * Nest.js
 * CSS/SCSS
 
-**Connect with me:**
+**Можете связаться со мной через:**
 
 <img src="https://github.com/seyelich/seyelich/assets/98465083/c190d98d-c67e-466a-8bc4-cfc9f340898e" width="50">
 <img src="https://github.com/seyelich/seyelich/assets/98465083/f4fbfdef-2b07-452d-853e-35777f8ff857" width="50">
