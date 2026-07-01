@@ -1,16 +1,16 @@
 # Привет всем 👋
 ## Я Лиза, фронтенд-разработчик!
-Также интересуюсь фуллстак разработкой. Мой стэк:
+Cтэк:
 * React
+* Angular
 * Vite
 * Webpack
 * Zustand
 * Redux
 * ReactQuery
 * Ant Design
-* TypeScript / JavaScript
-* Node.js
-* CSS/SCSS
+* Ionic 
+* Capacitor
 
 **Можете связаться со мной через:**
 
